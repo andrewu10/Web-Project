@@ -2,8 +2,35 @@ body{
   background-color: 
 #ccffee;
 }
+body{
+  font-family: Arial, sans-serif;
+}
 
+h1, h2, h3, h4, h5, h6{
+  font-family: "Raleway", serif;
+}
 body{
   background-color: 
 rgba(207, 247, 255, 0.5);
+}
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+p{
+  color: 
+blue;
+}
+
+p{
+  color: 
+#00bf0f;
+
+  background-color: 
+#ccffee;
+}
+
+footer{
+  background-color: 
+rgb(167, 0, 0);
 }
